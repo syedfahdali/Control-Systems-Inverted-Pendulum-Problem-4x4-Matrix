@@ -1,0 +1,6 @@
+\beamer@sectionintoc {1}{Problem Statement}{2}{0}{1}
+\beamer@sectionintoc {2}{State-space Representation}{3}{0}{2}
+\beamer@sectionintoc {3}{Stability Analysis}{4}{0}{3}
+\beamer@sectionintoc {4}{Controllability and Observability}{6}{0}{4}
+\beamer@sectionintoc {5}{Controller Design}{7}{0}{5}
+\beamer@sectionintoc {6}{PID Controller Design}{9}{0}{6}
